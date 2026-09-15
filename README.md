@@ -1,6 +1,4 @@
-# Reembolso de Consultas - Test Doubles em Java / Refund Consultations - Test Doubles in Java
-
-## Português
+# Reembolso de Consultas - Test Doubles em Java
 
 Projeto criado para praticar testes unitários em Java utilizando diferentes tipos de dublês de teste.
 
@@ -18,24 +16,3 @@ Projeto criado para praticar testes unitários em Java utilizando diferentes tip
 O projeto simula um sistema de cálculo de reembolso de consultas médicas.
 
 A cada exercício, uma nova técnica de teste é aplicada ao mesmo contexto.
-
----
-
-## English
-
-Project created to practice unit testing in Java using different types of test doubles.
-
-### Concepts applied
-
-- **Dummy**: an object used only to fill a parameter.
-- **Fake**: a simple in-memory implementation, without a database.
-- **Stub**: an object that returns fixed values for the test.
-- **Spy**: an object that records whether a given method was called.
-- **Mock**: a simulated object using Mockito to control behavior.
-- **Helper**: an auxiliary method to avoid repetition when creating objects.
-
-### Project context
-
-The project simulates a medical appointment reimbursement calculation system.
-
-In each exercise, a new testing technique is applied to the same context.

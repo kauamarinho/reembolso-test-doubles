@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.estudos</groupId>
-    <artifactId>reembolso-test-doubles</artifactId>
+    <artifactId>reimbursement-test-doubles</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
